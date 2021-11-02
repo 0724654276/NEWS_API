@@ -4,9 +4,9 @@ The NEWS-API app is an application that helps one them list and preview news art
 
 ## Technologies Used
 
-Python3.8
-HTML
-CSS
+-Python3.8
+-HTML
+-CSS
 
 ##### Setup Instructions and Installation
 
