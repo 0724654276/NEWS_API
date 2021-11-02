@@ -11,7 +11,7 @@ CSS
 ##### Setup Instructions and Installation
 
 Git clone
-https://git.heroku.com/news255api.git
+https://github.com/0724654276/NEWS_API.git
 Install python3.8
 Run on the terminal 
 
